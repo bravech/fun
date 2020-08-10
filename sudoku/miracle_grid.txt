@@ -1,0 +1,18 @@
+000bbb000
+0aa0000cc
+0aa0000cc
+e00000d00
+ef0000d00
+ef0000g00
+effgggg00
+0ii0000hh
+0ii0000hh
+a 25
+b 13
+c 14
+d 14
+e 23
+f 23
+g 21
+i 20 
+h 22
